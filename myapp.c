@@ -110,7 +110,7 @@ int main(){
     peNiveluri(radacina);
     printf("\n");
     
-    printf("Merge bine!!\n");
-
+    
+    printf("Proba recursivitate!\n");
     return 0;
 }
