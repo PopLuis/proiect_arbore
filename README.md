@@ -26,4 +26,6 @@ docker run ghcr.io/popluis/proiect_arbore/proiect_map:latest
 1.Compilator GCC
 2.Docker
 3.VS Code
+![Map_ss2](https://github.com/user-attachments/assets/96e1a7d6-8752-4cc5-9499-58dea0b05d25)
+![image](https://github.com/user-attachments/assets/8352a745-e0dc-457c-beef-0b7ee0f028b5)
 
